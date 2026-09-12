@@ -445,3 +445,7 @@ It also provides hands-on experience with **LangChain, vector databases, local L
 This project is for **educational and research purposes only**.
 
 It does not provide medical diagnosis, treatment recommendations, or professional medical advice. Always consult a qualified healthcare professional for medical decisions.
+
+<img width="1905" height="969" alt="image" src="https://github.com/user-attachments/assets/5573fc94-a710-4c6f-a287-9e5c8f2097c6" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/a8b73da0-6d4c-46de-9f1e-39905301c89c" />
+
