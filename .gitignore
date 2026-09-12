@@ -1,0 +1,70 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# ChromaDB
+# =========================
+
+chroma_db/
+chroma_db_*/
+
+# =========================
+# Fine-tuning outputs
+# =========================
+
+checkpoints/
+outputs/
+runs/
+wandb/
+
+# LoRA / model artifacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+
+*.log
